@@ -1,7 +1,7 @@
 # Election-Analysis
  
 ## Overview of Election Audit
-This is an analysis of election data for the Colorado Board of elections. Provided are county and candidate analysis using a python code on a .csv file provided by the client. Using this information we can determine the voting percentage for each county and candadit. 
+This is an analysis of election data for the Colorado Board of elections. Provided are county and candidate analysis using a python code on a .csv file provided by the client. Using this information we can determine the voting percentage for each county and candidate. 
 
 ## Election Audit Results
 - Total Votes cast: 369,711
@@ -23,8 +23,9 @@ This is an analysis of election data for the Colorado Board of elections. Provid
 ![Election Results](Images/Results.png)
 
 ## Election-Audit Summary
-- The code used to this analysis can be applied to other election data. To use the this python code with with different data, the user will need to change the file path:
+- The code used to complete this analysis can be applied to other election data. To use the this python code with with different data, the user will need to change the file path:
+
 ![Path to Code](Images/CodeChange.png)
 
-- If this data is used for elections that are in a national or state setting, the output lables would need to be updated to reflect the data set. For example: Highest County Turnout would need to be changed to Highest "State" or other label to reflect the data.  
+- If this data is used for elections that are in a national or state setting, the output lables would need to be updated to reflect the data set. For example: "Highest County Turnout" would need to be changed to Highest "State" or other label to reflect the data.  
 
