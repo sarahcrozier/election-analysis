@@ -18,6 +18,8 @@ This is an analysis of election data for the Colorado Board of elections. Provid
     - **Charles Casper Stockham** recieved 85,213 votes, for a total of 23.0% of the total votes cast. 
     - **Diana DeGette** recieved 272,892 votes, for a total of 73.8% of the total votes cast. 
     - **Diana DeGette was the winning candidate.**
+
+    
 ![Election Results](Images/Results.png)
 
 ## Election-Audit Summary
